@@ -6,7 +6,7 @@ public class test {
         Calculator calculator = new Calculator();
 
         System.out.println(calculator.add(2,4));
-        System.out.println(calculator.sub(23,5));
+        System.out.println(calculator.sub(23,5));  
         System.out.println(calculator.mol(2,5));
         System.out.println(calculator.div(20,5));
     }
