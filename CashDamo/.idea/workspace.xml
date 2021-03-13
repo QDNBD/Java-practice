@@ -27,7 +27,23 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cash" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cash" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cash" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cash: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FavoritesManager">
@@ -53,11 +69,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginServlet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoginServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/servlet/LoginServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            <state relative-caret-position="989">
+              <caret line="57" column="38" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/util/DBUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order" pinned="false" current-in-tab="false">
+        <entry file="das://ca5607ce-3c5b-43a6-b259-045a1acb4fe4/schema/cash/table/order">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order_item" pinned="false" current-in-tab="true">
+        <entry file="das://ca5607ce-3c5b-43a6-b259-045a1acb4fe4/schema/cash/table/order_item">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -97,9 +143,9 @@
         <option value="$PROJECT_DIR$/src/main/webapp/orderBrowse.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/register.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/updategoods.html" />
-        <option value="$PROJECT_DIR$/src/main/java/servlet/LoginServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/servlet/RegisterServlet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/registerFalse.html" />
+        <option value="$PROJECT_DIR$/src/main/java/servlet/LoginServlet.java" />
       </list>
     </option>
   </component>
@@ -162,7 +208,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -203,8 +248,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
-              <item name="LoginServlet" type="1a9f42e2:ClassTreeNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CashDamo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CashDamo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="DBUtil" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="CashDamo" type="b2602c69:ProjectViewProjectNode" />
@@ -232,6 +285,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -420,11 +474,14 @@
       <workItem from="1613983809022" duration="2479000" />
       <workItem from="1614236540729" duration="548000" />
       <workItem from="1614937955178" duration="596000" />
+      <workItem from="1615549127326" duration="3819000" />
+      <workItem from="1615600174095" duration="2531000" />
+      <workItem from="1615603364286" duration="223000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24603000" />
+    <option name="totallyTimeSpent" value="31176000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -447,7 +504,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="right" id="Database" order="7" weight="0.3299356" />
+      <window_info active="true" anchor="right" id="Database" order="7" visible="true" weight="0.1362661" />
       <window_info x="1381" y="102" width="132" height="782" id="Structure" order="7" sideWeight="0.509542" side_tool="true" weight="0.38523644" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -460,20 +517,21 @@
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32943925" />
       <window_info anchor="bottom" id="Terminal" order="13" weight="0.32827103" />
-      <window_info active="true" content_ui="combo" x="65" y="106" width="284" height="856" id="Project" order="0" sideWeight="0.490458" visible="true" weight="0.18454936" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32827103" />
+      <window_info content_ui="combo" x="65" y="106" width="284" height="856" id="Project" order="0" sideWeight="0.490458" visible="true" weight="0.19259657" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="1" show_stripe_button="false" sideWeight="0.5070093" side_tool="true" weight="0.15450644" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32919955" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32919955" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="right" id="RestServices" order="0" />
       <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32919955" />
       <window_info id="Designer" order="4" />
       <window_info anchor="right" id="Palette" order="4" />
@@ -496,14 +554,13 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.3299356" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info active="true" content_ui="combo" x="65" y="106" width="284" height="856" id="Project" order="0" sideWeight="0.4971815" visible="true" weight="0.15236051" />
       <window_info anchor="right" id="Database" order="7" weight="0.3299356" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="RestServices" order="0" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -516,31 +573,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/updategoods.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="42" column="69" selection-start-line="42" selection-start-column="58" selection-end-line="42" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/pay.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="45" column="77" selection-start-line="45" selection-start-column="64" selection-end-line="45" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/orderBrowse.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/RegisterServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="38" column="94" selection-start-line="38" selection-start-column="94" selection-end-line="38" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://2d343ed4-0deb-44a8-bf17-503b565e8e56/schema/cash/table/goods" />
     <entry file="das://2d343ed4-0deb-44a8-bf17-503b565e8e56/schema/cash/table/order" />
     <entry file="das://2d343ed4-0deb-44a8-bf17-503b565e8e56/schema/cash/table/account" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/pay.html">
@@ -633,13 +665,6 @@
     <entry file="das://2d343ed4-0deb-44a8-bf17-503b565e8e56/schema/cash/table/goods" />
     <entry file="das://2d343ed4-0deb-44a8-bf17-503b565e8e56/schema/cash/table/order" />
     <entry file="das://2d343ed4-0deb-44a8-bf17-503b565e8e56/schema/cash/table/order_item" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/DBUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/commen/OrderStatus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -774,10 +799,55 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ca5607ce-3c5b-43a6-b259-045a1acb4fe4/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="das://ca5607ce-3c5b-43a6-b259-045a1acb4fe4/schema/cash/table/account">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ca5607ce-3c5b-43a6-b259-045a1acb4fe4/schema/cash/table/order_item.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ca5607ce-3c5b-43a6-b259-045a1acb4fe4/schema/cash/table/goods">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/servlet/LoginServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        <state relative-caret-position="989">
+          <caret line="57" column="38" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/DBUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ca5607ce-3c5b-43a6-b259-045a1acb4fe4/schema/cash/table/order">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ca5607ce-3c5b-43a6-b259-045a1acb4fe4/schema/cash/table/order_item">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>

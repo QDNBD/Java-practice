@@ -55,7 +55,7 @@ public class LoginServlet extends HttpServlet {
             }
 
             if(user.getId() == null) {
-                writer.write("<h2> 没有改用户："+username+"</h2>");
+                writer.write("<h2> 没有该用户："+username+"</h2>");
             }else if(!password.equals(user.getPassword())){
                 writer.write("<h2> 密码错误："+username+"</h2>");
             }else {
