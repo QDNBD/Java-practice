@@ -46,7 +46,6 @@ public class UserService {
         if(!exist.getPassword().equals(user.getPassword())) {
             throw new ClientException("USR002", "用户名密码校验失败");
         }
-
         return exist;
     }
 
