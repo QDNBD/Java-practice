@@ -48,7 +48,7 @@ public class buyGoodsServlet extends HttpServlet {
         if(flg) {
             //更新库存
             for ( Goods goods : goodsList) {
-                boolean isUpdate =updateAfterPay(goods,goods.getBuyGoodsNum());
+                boolean isUpdate = updateAfterPay(goods,goods.getBuyGoodsNum());
                 if(isUpdate) {
                     System.out.println("更新库存成功！");
                 }else {
@@ -70,7 +70,7 @@ public class buyGoodsServlet extends HttpServlet {
             String sql = "update goods set stock=? where id=?";
             connection = DBUtil.getConnection(true);
             ps = connection.prepareStatement(sql);
-            ps.setInt(1,goods.getStock()-buyGoodsNum);
+            ps.setInt(1,goods.getStock() - buyGoodsNum);
             ps.setInt(2,goods.getId());
 
             if(ps.executeUpdate() == 0) {
