@@ -5,12 +5,92 @@
       <artifact name="CashDamo:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="264fee16-2a4f-4b0d-a908-020d122b49ff" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="264fee16-2a4f-4b0d-a908-020d122b49ff" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../20210523/20210523.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTP/HTTP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ca5607ce-3c5b-43a6-b259-045a1acb4fe4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/DBUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/commen/OrderStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/entity/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/entity/Goods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/entity/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/entity/OrderItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/GoodUpdateServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/GoodsBrowseServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/GoodsPutAwayServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/GoodsSoldOutServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/OrderBrowseServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/ReadyBuyServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/RegisterServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/buyGoodsServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/util/DBUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/lib/commons-codec-1.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/lib/jackson-annotations-2.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/lib/jackson-core-2.8.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/lib/jackson-databind-2.8.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/lib/lombok-1.18.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/lib/mysql-connector-java-5.1.47.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/buyGoodsSuccess.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/Site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/amazeui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/zy.all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/zy.form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/zy.layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/zy.menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/zy.pageRecord.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/zy.table.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/zy.tabs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/goodsbrowse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/inbound.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/js/_layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/js/jquery-1.7.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/js/plugs/JqueryMD5_DinJonYa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/js/plugs/JquerySQLDateToDate_DinJonYa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/js/plugs/Jqueryplugs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/js/plugs/jquery.SuperSlide.source.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/orderBrowse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/pay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/registerFalse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/updategoods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/commen/OrderStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/Goods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/OrderItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/GoodUpdateServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/GoodsBrowseServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/GoodsPutAwayServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/GoodsSoldOutServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/OrderBrowseServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/ReadyBuyServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/RegisterServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/buyGoodsServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/DBUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,49 +118,6 @@
   <component name="FavoritesManager">
     <favorites_list name="CashDamo" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="OrderStatus.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/commen/OrderStatus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoodsBrowseServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/servlet/GoodsBrowseServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="buyGoodsServlet.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/servlet/buyGoodsServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="142" column="21" selection-start-line="142" selection-start-column="21" selection-end-line="142" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DBUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/util/DBUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -88,6 +125,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -171,6 +211,8 @@
     <option name="width" value="941" />
     <option name="height" value="976" />
   </component>
+  <component name="ProjectId" id="1vOyd7h9yHbeoOLtquraxF7oU0w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -247,8 +289,14 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
@@ -258,10 +306,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="plugins.junitgenerator.application" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -276,69 +324,28 @@
       <recent name="E:\Java\CashDamo\src\main\webapp" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="cash" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.47" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/CashDamoWar/login.html" />
@@ -355,11 +362,11 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_CashDamo" />
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="8651" />
       </RunnerSettings>
@@ -408,13 +415,15 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
-      <method>
+      <method v="2">
+        <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="CashDamo:war exploded" />
         </option>
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="StructureViewFactory">
     <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
   </component>
@@ -458,6 +467,8 @@
       <workItem from="1619614698701" duration="651000" />
       <workItem from="1619681481026" duration="905000" />
       <workItem from="1620372560324" duration="91000" />
+      <workItem from="1626447519785" duration="4239000" />
+      <workItem from="1626486651629" duration="583000" />
     </task>
     <servers />
   </component>
@@ -547,10 +558,19 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/servlet/GoodsBrowseServlet.java">
