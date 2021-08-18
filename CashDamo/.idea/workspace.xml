@@ -10,86 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="264fee16-2a4f-4b0d-a908-020d122b49ff" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../20210523/20210523.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTTP/HTTP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ca5607ce-3c5b-43a6-b259-045a1acb4fe4.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/DBUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/commen/OrderStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/entity/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/entity/Goods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/entity/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/entity/OrderItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/GoodUpdateServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/GoodsBrowseServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/GoodsPutAwayServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/GoodsSoldOutServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/OrderBrowseServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/ReadyBuyServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/RegisterServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/servlet/buyGoodsServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/classes/util/DBUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/lib/commons-codec-1.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/lib/jackson-annotations-2.8.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/lib/jackson-core-2.8.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/lib/jackson-databind-2.8.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/lib/lombok-1.18.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/lib/mysql-connector-java-5.1.47.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/buyGoodsSuccess.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/Site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/admin.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/amazeui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/zy.all.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/zy.form.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/zy.layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/zy.menu.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/zy.pageRecord.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/zy.table.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/css/zy.tabs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/goodsbrowse.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/inbound.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/js/_layout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/js/jquery-1.7.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/js/plugs/JqueryMD5_DinJonYa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/js/plugs/JquerySQLDateToDate_DinJonYa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/js/plugs/Jqueryplugs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/js/plugs/jquery.SuperSlide.source.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/orderBrowse.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/pay.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/registerFalse.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CashDamoWar/updategoods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/commen/OrderStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entity/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entity/Goods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entity/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entity/OrderItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/servlet/GoodUpdateServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/servlet/GoodsBrowseServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/servlet/GoodsPutAwayServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/servlet/GoodsSoldOutServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/servlet/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/servlet/OrderBrowseServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/servlet/ReadyBuyServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/servlet/RegisterServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/servlet/buyGoodsServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/DBUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,6 +220,8 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -303,6 +229,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="database.console.LAST_STATE" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -400,6 +327,21 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -469,6 +411,8 @@
       <workItem from="1620372560324" duration="91000" />
       <workItem from="1626447519785" duration="4239000" />
       <workItem from="1626486651629" duration="583000" />
+      <workItem from="1628322998636" duration="74000" />
+      <workItem from="1628696586341" duration="95000" />
     </task>
     <servers />
   </component>
