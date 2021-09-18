@@ -44,15 +44,15 @@ public class Main {
     }
 }
 
-    create table VIP_USER(id int primary key not null,  name varchar(30),  deadline DATE,  vip_type int);
-        insert into VIP_USER(id,name,deadline,vip_type) values(1,'Joe', '2021-10-01 00:00:00', 1);
-        insert into VIP_USER(id,name,deadline,vip_type) values(2,'Jim', '2021-12-05 00:00:00', 1);
-        insert into VIP_USER(id,name,deadline,vip_type) values(3,'Tom', '2021-11-02 00:00:00', 2);
-        insert into VIP_USER(id,name,deadline,vip_type) values(4,'Mary', '2021-09-03 00:00:00', 2);
-        insert into VIP_USER(id,name,deadline,vip_type) values(5,'Lucy', '2021-12-05 00:00:00', 1);
-        insert into VIP_USER(id,name,deadline,vip_type) values(6,'Henry', '2021-08-19 00:00:00', 1);
-        insert into VIP_USER(id,name,deadline,vip_type) values(7,'Bill', '2021-08-31 00:00:00', 1);
-
-        create table VIP_TYPE(id int primary key not null,  name varchar(30));
-        insert into VIP_TYPE(id,name) values(1,"黄金会员");
-        insert into VIP_TYPE(id,name) values(2,'钻石会员');
+//    create table VIP_USER(id int primary key not null,  name varchar(30),  deadline DATE,  vip_type int);
+//        insert into VIP_USER(id,name,deadline,vip_type) values(1,'Joe', '2021-10-01 00:00:00', 1);
+//        insert into VIP_USER(id,name,deadline,vip_type) values(2,'Jim', '2021-12-05 00:00:00', 1);
+//        insert into VIP_USER(id,name,deadline,vip_type) values(3,'Tom', '2021-11-02 00:00:00', 2);
+//        insert into VIP_USER(id,name,deadline,vip_type) values(4,'Mary', '2021-09-03 00:00:00', 2);
+//        insert into VIP_USER(id,name,deadline,vip_type) values(5,'Lucy', '2021-12-05 00:00:00', 1);
+//        insert into VIP_USER(id,name,deadline,vip_type) values(6,'Henry', '2021-08-19 00:00:00', 1);
+//        insert into VIP_USER(id,name,deadline,vip_type) values(7,'Bill', '2021-08-31 00:00:00', 1);
+//
+//        create table VIP_TYPE(id int primary key not null,  name varchar(30));
+//        insert into VIP_TYPE(id,name) values(1,"黄金会员");
+//        insert into VIP_TYPE(id,name) values(2,'钻石会员');
