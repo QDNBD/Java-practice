@@ -10,9 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="264fee16-2a4f-4b0d-a908-020d122b49ff" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20210902/src/com/test/test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../niuke/kmp算法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20210902/src/com/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20210902/src/com/test/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -413,6 +413,8 @@
       <workItem from="1626486651629" duration="583000" />
       <workItem from="1628322998636" duration="74000" />
       <workItem from="1628696586341" duration="95000" />
+      <workItem from="1631860972528" duration="429000" />
+      <workItem from="1631955510162" duration="315000" />
     </task>
     <servers />
   </component>
